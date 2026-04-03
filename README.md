@@ -2,7 +2,7 @@
 
 
 # 👋 Hi, I'm Elisha Theodore, B.Eng, PMP®, EMBA  
-**Cloud • Platform • DevOps • Data Engineer**
+**Cloud • DevOps • Data Engineer**
 
 I design, build, and deploy **scalable, production-ready systems** in the cloud while developing **data pipelines and analytics platforms** to transform raw data into actionable insights.  
 
