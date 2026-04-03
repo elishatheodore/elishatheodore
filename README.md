@@ -1,7 +1,6 @@
 
 
 
-
 # 👋 Hi, I'm Elisha Theodore, B.Eng, PMP®, EMBA  
 **Cloud • Platform • DevOps • Data Engineer**
 
@@ -100,6 +99,10 @@ I’m committed to **continuous learning and improvement**, evolving alongside t
 
 ---
 
-## 🤝 Connect
+## 🤝 Connect with Me
+
+- 🌐 Website: [www.elisha.app](https://www.elisha.app)  
+- 📧 Email: [elisha@elisha.app](mailto:elisha@elisha.app)  
+- 🔗 LinkedIn: [linkedin.com/in/elishatheodore](https://linkedin.com/in/elishatheodore)  
 
 Explore my repositories and follow my journey as I **design, deploy, and scale cloud platforms, DevOps workflows, and data systems**.
