@@ -1,22 +1,34 @@
-## 👋 Hi, I'm Elisha Theodore
-
-**Cloud • DevOps • Backend Systems**
-
-I design, build, and deploy scalable, production-ready systems using modern cloud infrastructure.
-
-I’m focused on becoming a world-class engineer by working on real systems, solving real problems, and continuously improving my craft.
+<!-- 🔥 BANNER -->
+![Banner](https://via.placeholder.com/1200x300/0B3D2E/FFD700?text=Elisha+Theodore+%7C+Cloud+Platform+Engineer)
 
 ---
 
-## 🚀 What I’m Building
+# 👋 Elisha Theodore  
+**Cloud • Platform • DevOps Engineer**
 
-I build end-to-end systems — from backend logic to cloud deployment.
+Designing and operating scalable, production-grade systems in the cloud.
 
-- 🔧 Backend services with Python & FastAPI  
-- ☁️ Cloud infrastructure on Microsoft Azure (AKS, Storage, Networking)  
-- 📦 Containerized applications using Docker  
-- ⚙️ CI/CD pipelines for automated testing and deployment  
-- 🏗️ Production-ready architectures designed for scale and reliability  
+---
+
+## ⚡ About Me
+
+I build **end-to-end cloud systems** — from backend services to infrastructure and deployment.
+
+My focus is simple:
+- Build real systems  
+- Deploy them properly  
+- Make them scalable and reliable  
+
+---
+
+## 🚀 Core Focus
+
+- ☁️ Cloud Infrastructure (Microsoft Azure)  
+- ⚙️ Platform Engineering & DevOps  
+- 📦 Containerization (Docker)  
+- ☸️ Kubernetes (AKS)  
+- 🔁 CI/CD & Automation  
+- 🏗️ Distributed System Design  
 
 ---
 
@@ -24,39 +36,65 @@ I build end-to-end systems — from backend logic to cloud deployment.
 
 ### Cloud Asset Management Platform (CAMP)
 
-A cloud-native backend system for managing and storing digital assets.
+A cloud-native backend system designed to manage and store digital assets at scale.
 
-This project reflects how I think about engineering: build something real, make it scalable, and prepare it for production.
+**What this project demonstrates:**
 
-**Key Highlights:**
-- Built with FastAPI (Python)  
-- Designed for Azure cloud integration  
-- Containerized with Docker and structured for Kubernetes deployment  
-- Handles file storage and asset management workflows  
-- Designed with scalability, reliability, and real-world usage in mind  
+- Backend service built with FastAPI  
+- Containerized using Docker  
+- Designed for Kubernetes deployment (AKS)  
+- Structured for Azure cloud integration  
+- Handles real-world file storage workflows  
+
+**Architecture Thinking:**
+Stateless services, scalable storage, and cloud-native design principles.
 
 ---
 
-## 🧠 How I’m Growing
+## 🏗️ Architecture Mindset
 
-I’m intentionally developing deep expertise in:
+I think in systems, not just code:
 
-- Kubernetes and container orchestration (AKS)  
-- Cloud architecture & distributed systems  
-- DevOps practices and automation (CI/CD)  
-- Designing systems for high availability and scale  
+- Stateless application design  
+- Separation of compute and storage  
+- Scalable cloud storage patterns  
+- Load balancing and traffic routing  
+- High availability and fault tolerance  
 
-Every project I build is part of that journey.
+---
+
+## 🧠 Currently Advancing
+
+- Kubernetes in production environments  
+- Infrastructure as Code (Terraform - upcoming)  
+- Advanced CI/CD pipelines  
+- Observability (monitoring & logging systems)  
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=elishatheodore&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=elishatheodore&theme=tokyonight)
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,azure,postgres,linux,git" />
+</p>
 
 ---
 
 ## 🎯 Mission
 
-To become a world-class Cloud / DevOps Engineer who builds systems that:
+To become a world-class Cloud / Platform Engineer building systems that:
 
 - Scale efficiently  
 - Operate reliably  
-- Deliver real value in production environments  
+- Are designed for real-world production  
 
 ---
 
@@ -64,10 +102,10 @@ To become a world-class Cloud / DevOps Engineer who builds systems that:
 
 I don’t just build apps — I build systems designed to scale, operate, and survive in production.
 
-And I’m committed to continuous learning and improvement, because the best engineers are those who evolve with the systems they build.
+And I’m committed to continuous learning and improvement, because the best engineers evolve with the systems they build.
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect
 
-Explore my repositories and follow my journey as I build, deploy, and scale real systems in the cloud.
+Explore my work and follow my journey as I build and scale real systems in the cloud.
