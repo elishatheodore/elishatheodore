@@ -126,7 +126,7 @@ I design **end-to-end platforms** that integrate infrastructure, data, and softw
 
 - 🌐 Website: www.elisha.app 
 - 📧 Email: elisha@elisha.app  
-- 🔗 LinkedIn: linkedin.com/in/elishatheodore  
+- 🔗 LinkedIn: www.linkedin.com/in/elishatheodore  
 
 ---
 
