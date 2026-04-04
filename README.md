@@ -1,84 +1,100 @@
-
-
-
 # 👋 Hi, I'm Elisha Theodore, B.Eng, PMP®, EMBA  
-**Cloud • DevOps • Data Engineer**
+**Cloud • DevOps • Data & Full-Stack Engineer | Platform Builder**
 
-I design, build, and deploy **scalable, production-ready systems** in the cloud while developing **data pipelines and analytics platforms** to transform raw data into actionable insights.  
+I design and architect **scalable, secure, production-grade cloud platforms** with full lifecycle ownership — from infrastructure and data pipelines to backend services and frontend applications.
 
-I combine **cloud infrastructure, DevOps, and data engineering** to deliver automated, high-performance solutions that align technology with business goals.  
+My work sits at the intersection of **cloud infrastructure, DevOps, data engineering, and full-stack development**, enabling organizations to deploy faster, scale reliably, and make data-driven decisions.
 
 ---
 
-## 🚀 Core Focus
+## 🚀 What I Do
 
-- ☁️ **Cloud Platforms:** Microsoft Azure, AWS  
-- 🛠️ **Infrastructure & IaC:** Terraform, Bicep, ARM Templates, Virtual Machines, VNets, Load Balancers, VPNs  
-- 📦 **DevOps & Automation:** CI/CD, Docker, Kubernetes (AKS), GitHub Actions  
-- 🗄️ **Data Engineering:** Python, SQL, ETL/ELT pipelines, Azure Data Factory, Microsoft Fabric, Azure Databricks, Azure Synapse Analytics, Power BI  
-- 🔐 **Security & Governance:** Microsoft Entra ID, IAM, RBAC  
-- ⚡ **Backend & Web Development:** FastAPI, HTML/CSS/JavaScript  
+- Architect **cloud-native platforms** on Azure & AWS  
+- Build and deploy **containerized applications** with Kubernetes  
+- Develop **full-stack systems** (FastAPI, React) integrated with cloud infrastructure  
+- Design **data pipelines and analytics platforms** for real-time insights  
+- Implement **CI/CD, IaC, and automation** for production environments  
+- Apply **enterprise-grade security** (Entra ID, IAM, RBAC)
 
 ---
 
 ## 🧩 Featured Projects
 
-### Cloud Asset Management Platform (CAMP)
-- **Tech:** FastAPI | Docker | Kubernetes (AKS) | Azure  
-- Architected and deployed a **secure, multi-tier cloud-native platform** with stateless microservices and Azure-managed stateful data  
-- Integrated **CI/CD, infrastructure as code, and observability** for real-world, production-ready workloads  
+### 🚀 Cloud Asset Management Platform (CAMP)
+**Tech:** FastAPI | React | Docker | Kubernetes (AKS) | Azure | Terraform  
 
-### AI-Powered DevOps Automation Agent
-- **Tech:** Python | Terraform | GitHub Actions | Azure DevOps  
-- Built an **AI agent to automate DevOps workflows**, enabling repeatable deployments and automated infrastructure management  
-
-### Azure Infrastructure Deployment (Terraform)
-- **Tech:** Terraform | Azure  
-- Designed and deployed **scalable, automated infrastructure**, including VMs, VNets, subnets, and secure connectivity  
-
-### End-to-End Data Pipeline & Analytics Platform
-- **Tech:** ETL | Microsoft Fabric | Azure | Power BI  
-- Developed **data pipelines and dashboards** with monitoring and observability, reducing reporting cycle times by 60%  
+- Architected and deployed a **cloud-native, full-stack asset management platform** designed for scalability and secure file handling  
+- Built **backend APIs (FastAPI)** and integrated **frontend interfaces**, delivering a complete end-to-end system  
+- Containerized services with Docker and deployed to **AKS for high availability and horizontal scaling**  
+- Integrated **Azure Blob Storage + CDN** for scalable asset storage and delivery  
+- Implemented **CI/CD pipelines (GitHub Actions)** and **Infrastructure as Code (Terraform)** for automated deployments  
+- Applied **security best practices (JWT, RBAC, IAM concepts)** aligned with enterprise environments  
 
 ---
 
-## 🏗️ Systems & Data Mindset
+### 🤖 AI-Powered DevOps Automation Agent
+**Tech:** Python | Terraform | GitHub Actions | Azure DevOps  
 
-I build systems with **scalability, reliability, and observability** in mind:
+- Built an **AI-driven automation agent** to streamline DevOps workflows and infrastructure provisioning  
+- Enabled **repeatable deployments and reduced manual intervention** through intelligent automation  
+- Integrated with CI/CD pipelines to enhance **deployment speed and reliability**
 
-- Stateless & microservice architecture  
-- Separation of compute, storage, and data pipelines  
-- Scalable cloud storage patterns & load balancing  
-- High availability & fault tolerance  
-- Observability for data & infrastructure pipelines  
+---
+
+### ☁️ Azure Infrastructure Platform (Terraform)
+**Tech:** Terraform | Azure  
+
+- Designed and provisioned **scalable cloud infrastructure** including VNets, subnets, VMs, and secure connectivity  
+- Applied **modular Infrastructure as Code patterns** for reusability and consistency  
+- Implemented **secure networking and governance controls** aligned with enterprise standards  
+
+---
+
+### 📊 End-to-End Data Pipeline & Analytics Platform
+**Tech:** Python | ETL/ELT | Microsoft Fabric | Azure | Power BI  
+
+- Designed and built **data pipelines and analytics workflows** to transform raw data into actionable insights  
+- Reduced reporting cycle times by **60%** through automation and orchestration  
+- Implemented **data observability** to ensure pipeline reliability and data quality  
+
+---
+
+## 🏗️ Platform Engineering Mindset
+
+I build systems designed to **scale, operate, and endure in production**:
+
+- Cloud-native & microservices architecture  
+- Full-stack system integration (frontend + backend + infrastructure)  
+- Infrastructure as Code & automation-first design  
+- High availability, fault tolerance & performance optimization  
+- Observability across infrastructure, applications, and data pipelines  
 
 ---
 
 ## 🧠 Currently Advancing
 
 - Kubernetes at scale (AKS)  
-- Terraform & Infrastructure as Code best practices  
-- Advanced CI/CD pipelines & GitOps  
-- Observability: monitoring, logging, tracing  
-- Data pipelines & orchestration  
+- Advanced Terraform & platform architecture  
+- CI/CD, GitOps & release engineering  
+- Observability (monitoring, logging, tracing)  
+- Distributed systems & data pipeline orchestration  
 
 ---
 
 ## 🎯 Mission
 
-To become a **world-class Cloud / Platform / DevOps / Data Engineer**, building systems and pipelines that:
+To become a **world-class Platform Engineer**, building systems that:
 
-- Scale efficiently  
-- Operate reliably  
-- Deliver actionable business impact in production  
+- Scale seamlessly  
+- Operate reliably in production  
+- Deliver measurable business impact  
 
 ---
 
 ## ⚡ Philosophy
 
-I don’t just build apps or pipelines — I build **systems and platforms designed to scale, operate, and endure in production**.  
-
-I’m committed to **continuous learning and improvement**, evolving alongside the systems I design and operate.  
+I don’t just build applications or pipelines —  
+I design **end-to-end platforms** that integrate infrastructure, data, and software into **cohesive, production-ready systems**.
 
 ---
 
@@ -90,16 +106,15 @@ I’m committed to **continuous learning and improvement**, evolving alongside t
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=elishatheodore&theme=tokyonight" alt="GitHub Streak" />
@@ -109,8 +124,10 @@ I’m committed to **continuous learning and improvement**, evolving alongside t
 
 ## 🤝 Connect with Me
 
-- 🌐 Website: [www.elisha.app](https://www.elisha.app)  
-- 📧 Email: [elisha@elisha.app](mailto:elisha@elisha.app)  
-- 🔗 LinkedIn: [linkedin.com/in/elishatheodore](https://linkedin.com/in/elishatheodore)  
+- 🌐 Website: www.elisha.app 
+- 📧 Email: elisha@elisha.app  
+- 🔗 LinkedIn: linkedin.com/in/elishatheodore  
 
-Explore my repositories and follow my journey as I **design, deploy, and scale cloud platforms, DevOps workflows, and data systems**.
+---
+
+💡 *Explore my repositories to see how I design, build, and scale cloud-native platforms, DevOps systems, and data-driven applications.*
