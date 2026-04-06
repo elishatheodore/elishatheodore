@@ -151,9 +151,6 @@ I don't just build applications or pipelines — I design **end-to-end platforms
   <img src="https://streak-stats.demolab.com?user=elishatheodore&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elishatheodore&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
 
 ---
 
