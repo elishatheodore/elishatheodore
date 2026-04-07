@@ -60,7 +60,7 @@ My work sits at the intersection of **cloud infrastructure, DevOps, MLOps, and d
 - Applied **modular IaC patterns** for reusability, consistency, and governance across environments
 - Implemented **secure networking, RBAC, and compliance controls** aligned with enterprise standards
 
-🔗 [View Repository](https://github.com/elishatheodore/azure-infrastructure)
+🔗 [View Repository](https://github.com/elishatheodore/multicloud-terraform-iac)
 
 ---
 
