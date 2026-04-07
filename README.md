@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Elisha Theodore — B.Eng | PMP® | EMBA
-**Cloud, DevOps & MLOps Engineer | Platform Architect | Business Solutions Architect**
+**Cloud Platform Engineer | DevOps & Data Infrastructure**
 
 I design and deliver **production-grade, cloud-native platforms** with full lifecycle ownership — from infrastructure and data pipelines to containerized microservices, GitOps delivery, and ML-ready architectures.
 
