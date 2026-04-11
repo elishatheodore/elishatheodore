@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Elisha Theodore — B.Eng | PMP® | EMBA
-**AI & Cloud Architect  ·  Kubernetes  ·  Business Solutions**
+**AI & Cloud Architect**
 
 I design and deliver **production-grade, cloud-native platforms** — from Kubernetes infrastructure and GitOps pipelines to MLOps systems and AI-powered business solutions. My work sits at the intersection of **cloud architecture, AI, and business strategy**, enabling organisations to scale reliably, operate intelligently, and make data-driven decisions.
 
