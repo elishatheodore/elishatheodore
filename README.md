@@ -1,96 +1,82 @@
 # 👋 Hi, I'm Elisha Theodore — B.Eng | PMP® | EMBA
-**Cloud Platform Engineer | DevOps & Data Engineering**
+**AI & Cloud Platform Architect  ·  Kubernetes  ·  Business Solutions**
 
-I design and deliver **production-grade, cloud-native platforms** with full lifecycle ownership — from infrastructure and data pipelines to containerized microservices, GitOps delivery, and ML-ready architectures.
-
-My work sits at the intersection of **cloud infrastructure, DevOps, MLOps, and data engineering**, enabling organizations to deploy faster, scale reliably, and make data-driven decisions.
+I design and deliver **production-grade, cloud-native platforms** — from Kubernetes infrastructure and GitOps pipelines to MLOps systems and AI-powered business solutions. My work sits at the intersection of **cloud architecture, AI, and business strategy**, enabling organisations to scale reliably, operate intelligently, and make data-driven decisions.
 
 ---
 
-## 🚀 What I Build
+## 🚀 What I Architect
 
-- **Cloud-native platforms** on Azure (AKS) and AWS — multi-cluster, multi-environment, enterprise-ready
-- **Kubernetes at scale** — Helm, Kustomize, HPA, Network Policies, Resource Quotas, Service Accounts
-- **GitOps delivery pipelines** — ArgoCD and Flux CD with automated sync, self-healing, and rollback
-- **CI/CD systems** — GitHub Actions with multi-architecture builds, Trivy security scanning, and automated deployments
-- **MLOps pipelines** — experiment tracking, model registry, containerized serving, drift detection, and automated retraining
-- **Infrastructure as Code** — modular Terraform and Bicep patterns for repeatable, governed cloud infrastructure
-- **Data pipelines and analytics** — Azure Data Factory, Microsoft Fabric, Databricks, and Power BI
-- **Full-stack systems** — FastAPI backends, React frontends, integrated with cloud infrastructure
-- **Observability stacks** — Prometheus, Grafana, Azure Monitor, and ELK Stack for end-to-end visibility
+- **Cloud-native platforms** on Azure (AKS), AWS, and GCP — multi-cluster, multi-environment, enterprise-ready
+- **Kubernetes at scale** — Helm, Kustomize, HPA, Network Policies, Resource Quotas, RBAC, multi-cluster topology
+- **GitOps delivery** — ArgoCD and Flux CD with automated sync, self-healing, and full audit trail
+- **MLOps pipelines** — experiment tracking, model registry, containerised serving, drift detection, automated retraining
+- **AI & business solutions** — RAG systems, LLM-powered workflows, financial risk platforms, data intelligence
+- **Infrastructure as Code** — modular Terraform and Bicep patterns for governed, repeatable cloud infrastructure
+- **Observability architecture** — Prometheus, Grafana, Azure Monitor, ELK Stack across infrastructure and AI systems
+- **CI/CD systems** — GitHub Actions with multi-architecture builds, Trivy scanning, quality gates, and automated rollback
 
 ---
 
 ## 🧩 Featured Projects
 
-### 🏦 ML Financial Risk Scoring Platform — End-to-End MLOps
-**Tech:** MLflow · Scikit-learn · FastAPI · Docker · Helm · Kubernetes (AKS) · ArgoCD · GitHub Actions · Evidently AI · Prometheus · Grafana · Terraform
+### 🏦 MLOps Financial Risk Platform
+**Tech:** MLflow · Scikit-learn · FastAPI · Kubernetes (AKS) · Helm · ArgoCD · Evidently AI · Prometheus · Grafana · Terraform · GitHub Actions
 
-- Architected an **end-to-end MLOps pipeline** for financial fraud and credit risk scoring — from data ingestion to production model serving and automated retraining
-- Implemented **MLflow experiment tracking and model registry** with automated promotion workflows and accuracy quality gates
-- Deployed a **FastAPI model server on AKS via Helm** with HPA auto-scaling, Network Policies, and Prometheus metrics
-- Built **CI/CD pipelines with model quality gates** — model only promoted to production if accuracy exceeds 95% and AUC exceeds 0.98
-- Established **GitOps model delivery with ArgoCD** — new model versions automatically synced to AKS from Git
-- Integrated **Evidently AI drift detection** with automated retraining triggers when prediction distribution shifts beyond threshold
-- Built **Grafana dashboards** tracking prediction volume, model accuracy, p95 latency, drift score, and risk distribution in real time
+- Architected an **end-to-end MLOps pipeline** for financial fraud and credit risk scoring — experiment tracking, model registry with 95%+ accuracy quality gates, FastAPI serving on AKS, automated retraining, and real-time Grafana dashboards
+- Designed **Evidently AI drift detection** with automated GitHub Actions retraining trigger — system autonomously detects when prediction distribution shifts and retrains without manual intervention
+- Established **GitOps model delivery via ArgoCD** — new model versions automatically synced to AKS from Git with self-healing and rollback
 
 🔗 [View Repository](https://github.com/elishatheodore/mlops-financial-risk-platform)
 
 ---
 
-### ☸️ Cloud Asset Management Platform (CAMP) — Kubernetes Microservices
-**Tech:** FastAPI · Docker · Helm · Kubernetes (AKS) · ArgoCD · Flux CD · Terraform · GitHub Actions · Kustomize · Trivy · GHCR
+### ☸️ Cloud Asset Management Platform (CAMP)
+**Tech:** FastAPI · React · Kubernetes (AKS) · Helm · ArgoCD · Flux CD · Terraform · GitHub Actions · Kustomize · Trivy · GHCR
 
-- Architected and deployed a **production-grade, cloud-native microservices platform** on Azure Kubernetes Service
-- Implemented **full GitOps workflows** using both ArgoCD and Flux CD for automated, declarative, self-healing deployments
-- Built a **multi-cluster enterprise deployment system** supporting AKS, EKS, GKE, and local clusters with zero hardcoded values
-- Designed **Helm charts** with environment-specific values (dev/staging/prod), HPA, Network Policies, Resource Quotas, and PVCs
-- Established **CI/CD pipelines** with GitHub Actions — multi-architecture builds (AMD64/ARM64), Trivy vulnerability scanning, and automated staging/production deployments
-- Published container images to **GitHub Container Registry (GHCR)** with automated build and push workflows
-- Applied **enterprise security** — RBAC, Network Policies, JWT authentication, secret management, and brute-force protection
+- Architected a **production-grade, cloud-native microservices platform** on AKS with multi-cluster support across AKS, EKS, GKE, and local environments — zero hardcoded values, full environment isolation
+- Implemented **dual GitOps delivery** via ArgoCD and Flux CD — automated sync, self-healing cluster state, declarative deployments replacing all manual processes
+- Designed **CI/CD pipeline** with GitHub Actions — multi-architecture builds (AMD64/ARM64), Trivy vulnerability scanning, automated staging/production deployments, and automatic rollback
 
 🔗 [View Repository](https://github.com/elishatheodore/kubernetes-microservices)
 
 ---
 
 ### ☁️ Azure Infrastructure Platform
-**Tech:** Terraform · Bicep · Azure · VNets · RBAC · IAM
+**Tech:** Terraform · Bicep · Azure · VNets · RBAC · IAM · Azure Policy
 
-- Designed and provisioned **enterprise-scale cloud infrastructure** — VNets, subnets, VMs, NSGs, and secure connectivity
-- Applied **modular IaC patterns** for reusability, consistency, and governance across environments
-- Implemented **secure networking, RBAC, and compliance controls** aligned with enterprise standards
+- Designed **enterprise-scale cloud infrastructure** — VNets, subnets, VMs, NSGs, AKS clusters, Key Vaults, and secure connectivity using modular IaC patterns
+- Implemented **governance controls** — RBAC, Azure Policy, and compliance frameworks aligned with enterprise security standards
 
-🔗 [View Repository](https://github.com/elishatheodore/multicloud-terraform-iac)
+🔗 [View Repository](https://github.com/elishatheodore/azure-infrastructure)
 
 ---
 
 ### 📊 End-to-End Data Pipeline & Analytics Platform
 **Tech:** Python · Azure Data Factory · Microsoft Fabric · Databricks · Power BI · ETL/ELT
 
-- Designed and built **end-to-end data pipelines** transforming raw data into actionable business intelligence
-- Reduced reporting cycle times by **60%** through pipeline automation and orchestration
-- Implemented **data observability** patterns to ensure pipeline reliability, data quality, and lineage tracking
+- Designed and built **end-to-end data pipelines** across Bronze/Silver/Gold medallion architecture transforming raw data into actionable intelligence
+- Reduced reporting cycle times by **60%** through pipeline automation and orchestration with data observability built in
 
 🔗 [View Repository](https://github.com/elishatheodore/data-pipeline)
 
 ---
 
-## 🏗️ Platform Engineering Mindset
+## 🏗️ Architecture Philosophy
 
-I don't just build applications or pipelines — I design **end-to-end platforms** that integrate infrastructure, data, and software into cohesive, production-ready systems:
+I don't just build systems — I design **platforms that last**:
 
-- Cloud-native & microservices architecture
-- GitOps-first delivery with declarative configuration
-- Infrastructure as Code & automation-first design
-- High availability, fault tolerance & horizontal scaling
-- Observability across infrastructure, applications, and data pipelines
+- Architecture-first thinking — design before implementation, standards before execution
+- GitOps-first delivery — declarative, auditable, self-healing by default
 - Security embedded at every layer — not bolted on after
+- Observability as a first-class concern — if you can't measure it, you can't operate it
+- AI-native design — intelligence built into platforms, not added as an afterthought
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ☸️ Platform & Orchestration
+### ☸️ Kubernetes & Platform
 <p>
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
@@ -101,8 +87,8 @@ I don't just build applications or pipelines — I design **end-to-end platforms
 ### ☁️ Cloud & Infrastructure
 <p>
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
 </p>
 
@@ -113,7 +99,7 @@ I don't just build applications or pipelines — I design **end-to-end platforms
   <img alt="Flux CD" src="https://img.shields.io/badge/Flux_CD-5468FF?style=for-the-badge&logo=flux&logoColor=white" />
 </p>
 
-### 🤖 MLOps
+### 🤖 AI & MLOps
 <p>
   <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
   <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -128,10 +114,11 @@ I don't just build applications or pipelines — I design **end-to-end platforms
   <img alt="Azure Monitor" src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
 
-### 💻 Languages & Backend
+### 💻 Languages & Development
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
@@ -152,24 +139,26 @@ I don't just build applications or pipelines — I design **end-to-end platforms
 </p>
 
 
+
 ---
 
 ## 🎯 Mission
 
-To architect and deliver **world-class cloud-native platforms** that:
+To architect **world-class AI-powered cloud platforms** that:
 
 - Scale seamlessly across clouds and clusters
 - Operate reliably in production with full observability
-- Deliver measurable business impact through automation and data intelligence
+- Deliver measurable business impact through intelligent automation
+- Enable engineering teams to move fast without breaking things
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Connect
 
-- 🌐 Website: [www.elisha.app](https://www.elisha.app)
-- 📧 Email: [elisha@elisha.app](mailto:elisha@elisha.app)
-- 🔗 LinkedIn: [www.linkedin.com/in/elishatheodore](https://www.linkedin.com/in/elishatheodore)
+- 🌐 [elisha.app](https://www.elisha.app)
+- 📧 [contact@elisha.app](mailto:contact@elisha.app)
+- 🔗 [linkedin.com/in/elishatheodore](https://www.linkedin.com/in/elishatheodore)
 
 ---
 
-💡 *Explore my repositories to see how I design, build, and scale cloud-native platforms, DevOps systems, and data-driven applications.*
+💡 *Explore my repositories to see how I design, build, and scale AI-powered cloud platforms, Kubernetes infrastructure, and data-driven systems.*
